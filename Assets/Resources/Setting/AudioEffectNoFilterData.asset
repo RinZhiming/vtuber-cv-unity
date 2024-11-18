@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 990e2f1797dd4a3cb1c84084d0defec6, type: 3}
+  m_Name: AudioEffectNoFilterData
+  m_EditorClassIdentifier: 
+  compressor:
+    threshold: 0
+    attack: 10
+    release: 20
+    makeUpGain: 0
+  volume:
+    volume: 0
+  pitch:
+    pitch: 1
+    fftSize: 1024
+    overlap: 4
+    maxChannels: 0
+  equalization:
+    lowPass: 22000
+    highPass: 10
+    centerFrequency: 2000
+    octaveRange: 1
+    frequencyOutput: 1
