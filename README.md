@@ -9,13 +9,13 @@ This project requires the following third-party assets and plugins to function c
 
 1. **Dlib Face Landmark Detector**
    - **Purpose:** Used for facial feature detection and tracking.
-   - **Link:** [Unity Asset Store - Dlib Face Landmark Detector](https://assetstore.unity.com/packages/tools/ai/dlib-face-landmark-detector-123456)
+   - **Link:** [Unity Asset Store - Dlib Face Landmark Detector](https://assetstore.unity.com/packages/tools/integration/dlib-facelandmark-detector-64314)
    - **Version:** 2.3.1
    - **Installation:** Import the package into the `/Assets/DlibFaceLandmarkDetector/` folder.
 
 2. **OpenCV for Unity**
    - **Purpose:** Provides OpenCV functionality for computer vision tasks.
-   - **Link:** [Unity Asset Store - OpenCV for Unity](https://assetstore.unity.com/packages/tools/ai/opencv-for-unity-123456)
+   - **Link:** [Unity Asset Store - OpenCV for Unity](https://assetstore.unity.com/packages/tools/integration/opencv-for-unity-21088)
    - **Version:** 2.4.0
    - **Installation:** Import the package into the `/Assets/OpenCVForUnity/` folder.
 
@@ -34,7 +34,6 @@ This project requires the following third-party assets and plugins to function c
 These assets are optional but enhance the project experience:
 1. **Unity UI Rounded Corners**
    - **Purpose:** Adds rounded corners to UI elements.
-   - **Link:** [GitHub - Unity UI Rounded Corners](https://github.com/some-user/ui-rounded-corners)
 
 ### How to Install Dependencies
 
