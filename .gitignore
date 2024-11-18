@@ -38,7 +38,8 @@
 /[Aa]ssets/img&file.meta
 /[Aa]ssets/Ui
 /[Aa]ssets/Ui.meta
-
+/[Aa]ssets/Scenes
+/[Aa]ssets/Scenes.meta
 
 # Assets folder meta
 DlibFaceLandmarkDetector.meta
